@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.red,
       ),
-      home: MyHomePage(title: 'Food Andres'),
+      home: MyHomePage(title: 'Foood Andress'),
     );
   }
 }
